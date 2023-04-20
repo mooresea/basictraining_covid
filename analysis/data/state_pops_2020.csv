@@ -1,0 +1,53 @@
+state,code ,pop2020,fips_code
+Alaska,AK,731158,2
+Alabama,AL,4921532,1
+Arkansas,AR,3030522,5
+Arizona,AZ,7421401,4
+California,CA,39368078,6
+Colorado,CO,5807719,8
+Connecticut,CT,3557006,9
+District of Columbia,DC,712816,11
+Delaware,DE,986809,10
+Florida,FL,21733312,12
+Georgia,GA,10710017,13
+Hawaii,HI,1407006,15
+Iowa,IA,3163561,19
+Idaho,ID,1826913,16
+Illinois,IL,12587530,17
+Indiana,IN,6754953,18
+Kansas,KS,2913805,20
+Kentucky,KY,4477251,21
+Louisiana,LA,4645318,22
+Massachusetts,MA,6893574,25
+Maryland,MD,6055802,24
+Maine,ME,1350141,23
+Michigan,MI,9966555,26
+Minnesota,MN,5657342,27
+Missouri,MO,6151548,29
+Mississippi,MS,2966786,28
+Montana,MT,1080577,30
+North Carolina,NC,10600823,37
+North Dakota,ND,765309,38
+Nebraska,NE,1937552,31
+New Hampshire,NH,1366275,33
+New Jersey,NJ,8882371,34
+New Mexico,NM,2106319,35
+Nevada,NV,3138259,32
+New York,NY,19336776,36
+Ohio,OH,11693217,39
+Oklahoma,OK,3980783,40
+Oregon,OR,4241507,41
+Pennsylvania,PA,12783254,42
+Rhode Island,RI,1057125,44
+South Carolina,SC,5218040,45
+South Dakota,SD,892717,46
+Tennessee,TN,6886834,47
+Texas,TX,29360759,48
+Utah,UT,3249879,49
+Virginia,VA,8590563,51
+Vermont,VT,623347,50
+Washington,WA,7693612,53
+Wisconsin,WI,5832655,55
+West Virginia,WV,1784787,54
+Wyoming,WY,582328,56
+Puerto Rico,PR,3754939,72

@@ -1,0 +1,7 @@
+variant,trans_mult,trans_mult_l,trans_mult_h,cross_protect_prob,vacc_protect_prob,trans_note,cross_note,vacc_note
+other,1,1,1,1,1,,,
+alpha,1.29,1.24,1.33,0.95,0.95,,,
+beta,,,,,,,,
+gamma,1.38,1.29,1.48,0.9,0.9,,,
+delta,1.97,1.76,2.17,0.9,0.9,,,
+omicron,2.85,2.46,3.35,0.56,0.82,Gozzi et al modeling preprint based on gen time of 3.5 and immune escape of 44% (old value of 4.04 was from Sofonea),Altarawneh (NEJM),thompson et al (MMWR) - based on protection against positive test result following booster shot [ grubaugh preprint suggests might only be 50%]

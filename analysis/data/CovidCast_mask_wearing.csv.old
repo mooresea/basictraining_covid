@@ -1,0 +1,747 @@
+indicatorDataSource,indicatorId,indicatorName,regionId,regionLevel,regionName,date,value
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-09,92.079933
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-10,92.0933281
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-11,92.0352505
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-12,91.9759634
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-13,91.962879
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-14,91.9906717
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-15,91.9949189
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-16,91.980357
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-17,91.9649366
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-18,91.9731512
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-19,91.9421181
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-20,91.8716991
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-21,91.7546036
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-22,91.6494346
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-23,91.4885984
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-24,91.3572198
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-25,91.224121
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-26,91.1190129
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-27,91.0486785
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-02-28,90.9527026
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-01,90.8763415
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-02,90.8564997
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-03,90.754086
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-04,90.6400877
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-05,90.5526983
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-06,90.4455925
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-07,90.3209199
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-08,90.2105904
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-09,90.1280513
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-10,90.0305606
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-11,89.9319198
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-12,89.837125
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-13,89.7621138
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-14,89.751082
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-15,89.751795
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-16,89.6784983
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-17,89.6911504
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-18,89.7442297
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-19,89.7331686
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-20,89.7882476
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-21,89.7636719
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-22,89.6690384
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-23,89.6469614
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-24,89.56628
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-25,89.466827
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-26,89.3756743
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-27,89.2766994
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-28,89.1752638
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-29,89.1425591
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-30,89.0745901
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-03-31,89.0565537
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-01,89.0323548
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-02,89.0744618
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-03,88.9674138
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-04,88.8554524
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-05,88.7846648
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-06,88.6566987
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-07,88.5103222
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-08,88.3839907
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-09,88.2317877
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-10,88.185487
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-11,88.2158253
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-12,88.1174916
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-13,88.08773
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-14,88.0570497
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-15,87.9948132
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-16,87.8354014
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-17,87.815967
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-18,87.7509872
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-19,87.6454626
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-20,87.5690555
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-21,87.5309122
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-22,87.5430187
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-23,87.545725
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-24,87.4617781
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-25,87.2572212
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-26,87.1032776
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-27,86.9041184
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-28,86.5971118
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-29,86.0794483
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-04-30,85.7598476
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-01,85.504
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-02,85.2477223
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-03,85.0173283
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-04,84.807272
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-05,84.7418022
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-06,84.8194296
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-07,84.724325
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-08,84.4557481
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-09,84.3029743
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-10,84.1014519
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-11,83.928634
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-12,83.640774
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-13,83.3736108
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-14,83.0885788
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-15,82.7505684
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-16,82.1811377
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-17,81.6333874
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-18,80.9024664
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-19,80.2226956
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-20,79.1793835
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-21,78.2823792
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-22,77.1194626
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-23,76.0202375
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-24,74.9852048
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-25,73.878253
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-26,72.7803855
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-27,71.9272058
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-28,70.7811381
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-29,70.0205571
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-30,69.2323213
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-05-31,68.2241297
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-01,67.2004358
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-02,66.2956825
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-03,65.3326665
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-04,64.5576659
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-05,63.3883011
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-06,62.2147169
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-07,61.2985472
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-08,60.5440363
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-09,59.575954
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-10,58.6751837
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-11,57.7053317
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-12,57.0570107
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-13,56.3557641
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-14,55.5489332
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-15,54.8233568
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-16,54.0544477
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-17,53.3436748
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-18,52.4298389
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-19,51.4174509
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-20,50.4534805
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-21,49.5548653
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-22,48.6110169
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-23,47.8187847
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-24,46.8584942
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-25,46.2931206
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-26,45.7335275
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-27,45.2280883
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-28,44.6868878
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-29,44.1486408
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-06-30,43.6693708
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-01,43.2503265
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-02,42.8198161
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-03,42.3041978
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-04,42.0493033
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-05,41.5139092
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-06,40.9048201
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-07,40.34575
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-08,39.8739124
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-09,39.4178172
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-10,39.1785829
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-11,38.746512
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-12,38.5617111
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-13,38.5713555
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-14,38.483024
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-15,38.37523
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-16,38.382996
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-17,38.2592612
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-18,38.2422653
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-19,38.3231016
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-20,38.2832497
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-21,38.5150884
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-22,38.7820396
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-23,38.9220568
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-24,39.2828324
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-25,39.5583626
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-26,39.8817968
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-27,40.3215661
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-28,40.5822607
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-29,40.9457739
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-30,41.5912752
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-07-31,42.3758826
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-01,43.3570334
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-02,44.0295467
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-03,44.9074941
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-04,45.8583208
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-05,46.8118823
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-06,47.6990165
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-07,48.3969596
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-08,49.0563111
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-09,50.0014923
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-10,50.8799286
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-11,51.7962798
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-12,52.6149527
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-13,53.2963624
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-14,53.9582326
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-15,54.6149415
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-16,55.2786937
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-17,55.8524816
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-18,56.3407905
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-19,56.9345698
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-20,57.5303132
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-21,58.0989785
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-22,58.5429839
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-23,59.0476847
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-24,59.6161258
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-25,60.0914663
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-26,60.4433945
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-27,60.8678252
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-28,61.2609492
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-29,61.6516977
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-30,61.9986636
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-08-31,62.3276107
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-01,62.6296516
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-02,62.9963185
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-03,63.0678047
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-04,63.2549438
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-05,63.5091886
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-06,63.5880719
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-07,63.507877
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-08,63.620816
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-09,63.6200391
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-10,63.756948
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-11,63.8794661
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-12,63.8069187
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-13,63.8531261
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-14,64.0293927
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-15,63.8890517
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-16,63.8647396
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-17,63.8940167
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-18,63.7303324
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-19,63.8017213
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-20,63.7627838
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-21,63.6311194
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-22,63.6007063
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-23,63.6167051
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-24,63.5968763
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-25,63.6554135
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-26,63.5296849
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-27,63.5894254
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-28,63.517989
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-29,63.4007557
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-09-30,63.3868996
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-01,63.2206357
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-02,62.8516257
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-03,62.7526791
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-04,62.3597045
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-05,62.2179243
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-06,62.083363
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-07,61.848941
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-08,61.7528254
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-09,61.7223013
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-10,61.5012066
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-11,61.4620428
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-12,61.2939732
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-13,61.3131292
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-14,61.1969718
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-15,61.1160924
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-16,61.1505156
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-17,61.0724301
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-18,61.1673056
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-19,61.1901691
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-20,61.1388442
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-21,61.0885379
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-22,60.8479343
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-23,60.7020078
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-24,60.4827258
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-25,60.1768125
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-26,60.0174079
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-27,59.8393464
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-28,59.6960115
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-29,59.5563289
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-30,59.4375889
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-10-31,59.6091829
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-01,59.5407352
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-02,59.3325724
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-03,59.120923
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-04,59.0312212
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-05,59.0649788
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-06,58.9621516
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-07,58.7183106
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-08,58.688035
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-09,58.6990488
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-10,58.6285126
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-11,58.5877651
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-12,58.48132
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-13,58.5278856
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-14,58.5274634
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-15,58.5756305
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-16,58.4980499
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-17,58.5523317
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-18,58.3951615
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-19,58.4663561
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-20,58.4522942
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-21,58.3849155
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-22,58.3012563
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-23,58.2644248
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-24,58.3397953
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-25,58.2935281
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-26,58.1410944
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-27,57.9679102
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-28,57.9990407
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-29,57.9572974
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-11-30,58.0901364
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-01,58.0674862
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-02,58.2743542
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-03,58.5484743
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-04,58.9111144
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-05,59.0605852
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-06,59.3219689
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-07,59.4718902
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-08,59.7610219
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-09,59.9611666
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-10,60.0641025
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-11,59.9600432
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-12,60.1185472
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-13,60.0488393
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-14,60.0665822
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-15,60.1841146
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-16,60.1636367
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-17,60.2277662
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-18,60.5215427
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-19,60.6250991
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-20,61.1148871
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-21,61.5908483
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-22,61.7951557
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-23,62.2232713
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-24,62.6959807
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-25,63.0543391
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-26,63.4454299
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-27,63.7276685
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-28,64.0178849
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-29,64.40819
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-30,64.8090493
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2021-12-31,65.0413603
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-01,65.4338419
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-02,65.9282068
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-03,66.3891621
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-04,66.8067411
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-05,67.1556465
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-06,67.5926649
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-07,67.9632689
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-08,68.3497054
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-09,68.7423072
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-10,69.1013061
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-11,69.4105187
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-12,69.7452546
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-13,69.9241161
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-14,70.1690749
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-15,70.3540107
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-16,70.6390908
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-17,70.784889
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-18,70.9326241
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-19,71.0360033
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-20,71.0795731
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-21,71.1707104
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-22,71.1227689
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-23,70.879401
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-24,70.6662666
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-25,70.4513549
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-26,70.3412675
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-27,70.1540865
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-28,69.8994145
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-29,69.7544789
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-30,69.6869967
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-01-31,69.5438449
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-01,69.4727296
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-02,69.1227835
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-03,68.8266073
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-04,68.5274383
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-05,68.0740393
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-06,67.6496989
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-07,67.2318998
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-08,66.5682893
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-09,66.2458013
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-10,65.8259527
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-11,65.4402761
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-12,65.0617288
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-13,64.4984108
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-14,63.8947365
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-15,63.4780932
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,US,nation,United States,2022-02-16,62.8547434
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-09,88.1904544
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-10,88.1533917
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-11,88.0272515
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-12,87.2791161
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-13,87.0790314
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-14,87.1806017
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-15,87.0605969
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-16,87.0343475
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-17,86.9735016
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-18,87.0801467
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-19,87.3363981
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-20,87.8461312
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-21,87.7425662
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-22,87.6696606
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-23,86.8065523
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-24,86.6389271
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-25,86.2341124
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-26,86.0900609
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-27,85.2940372
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-02-28,84.4981955
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-01,84.3399068
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-02,84.7225538
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-03,84.5995675
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-04,84.9585822
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-05,84.6370538
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-06,84.5877396
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-07,84.868477
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-08,84.8037092
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-09,84.7147449
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-10,85.0016768
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-11,84.3838293
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-12,84.2076626
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-13,84.1646125
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-14,83.8663755
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-15,83.8198757
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-16,83.8296583
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-17,83.8485564
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-18,84.1005412
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-19,84.0467658
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-20,84.2446629
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-21,84.1349403
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-22,83.8734853
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-23,83.9607131
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-24,83.3961373
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-25,83.2444777
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-26,83.4928678
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-27,83.3190832
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-28,83.6055461
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-29,83.6555808
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-30,83.7270604
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-03-31,83.7952031
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-01,83.6775921
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-02,84.0155741
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-03,84.1094251
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-04,84.6073374
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-05,85.0115435
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-06,84.5538232
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-07,83.7673065
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-08,83.1929159
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-09,82.0122188
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-10,81.0823175
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-11,79.9756594
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-12,79.3446141
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-13,79.247045
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-14,79.5403065
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-15,79.6909255
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-16,79.9917991
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-17,80.6864658
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-18,81.1034954
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-19,81.2064239
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-20,80.8359249
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-21,80.6897627
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-22,80.4223707
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-23,80.5772468
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-24,80.7279863
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-25,80.6804643
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-26,80.55692
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-27,80.3765558
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-28,80.2936277
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-29,80.3911243
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-04-30,80.2672082
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-01,79.3408929
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-02,78.7821309
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-03,78.4522867
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-04,79.0830749
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-05,78.3208462
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-06,77.9416666
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-07,77.593993
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-08,77.5887132
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-09,77.6627429
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-10,76.8981649
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-11,75.9393908
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-12,76.0468201
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-13,75.9155798
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-14,75.8764559
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-15,75.5371028
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-16,75.3677375
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-17,75.0549336
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-18,74.2884772
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-19,74.0861847
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-20,72.7298078
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-21,69.8710485
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-22,69.1004634
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-23,67.8709665
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-24,67.1514936
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-25,65.6836295
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-26,64.1326834
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-27,63.5304252
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-28,63.8106159
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-29,62.6257585
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-30,61.0870052
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-05-31,60.6385614
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-01,60.1567261
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-02,59.6813036
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-03,58.8568454
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-04,58.340284
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-05,57.4063536
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-06,56.743218
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-07,55.8501391
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-08,55.6398124
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-09,54.5291194
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-10,54.2894812
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-11,53.1699402
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-12,53.2035103
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-13,53.4217796
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-14,53.0328019
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-15,52.3296025
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-16,52.0571507
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-17,50.9299642
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-18,50.2867799
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-19,48.6076413
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-20,48.1504028
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-21,46.724693
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-22,46.450255
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-23,45.9442178
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-24,46.4875172
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-25,45.9343772
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-26,46.440023
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-27,45.4881484
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-28,45.1165096
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-29,44.5618437
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-06-30,44.3565186
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-01,43.2832373
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-02,43.7293145
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-03,42.2765903
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-04,42.4988374
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-05,42.7037215
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-06,42.1075267
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-07,42.3792863
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-08,41.6775183
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-09,41.2548021
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-10,42.7651328
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-11,42.2943919
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-12,42.3992362
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-13,42.9269415
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-14,42.0617938
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-15,42.7723789
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-16,42.8106165
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-17,41.8843902
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-18,42.208185
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-19,41.7788609
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-20,42.4433331
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-21,42.4599594
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-22,41.9742797
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-23,41.9148393
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-24,43.0073441
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-25,43.0316526
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-26,43.3599929
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-27,42.8479369
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-28,43.8350655
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-29,44.4283621
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-30,45.2785106
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-07-31,45.1373923
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-01,45.8996467
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-02,46.9862618
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-03,47.6885112
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-04,48.3791052
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-05,49.752827
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-06,50.9399427
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-07,51.8720141
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-08,52.8485101
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-09,54.307414
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-10,55.1476712
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-11,56.49164
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-12,56.9616139
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-13,57.8290884
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-14,58.4952361
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-15,59.4235047
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-16,59.8111948
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-17,60.7920526
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-18,61.2332822
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-19,62.0152856
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-20,61.985983
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-21,62.6792552
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-22,63.1923496
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-23,63.8221362
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-24,65.0055383
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-25,65.5447109
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-26,66.3462141
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-27,67.6274808
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-28,67.9457654
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-29,68.1638943
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-30,68.2559904
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-08-31,67.9643909
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-01,68.2526767
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-02,67.9169815
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-03,67.5866544
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-04,67.9269782
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-05,67.4405451
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-06,66.9373515
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-07,66.5366432
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-08,66.2718833
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-09,66.9534
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-10,66.9064411
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-11,66.7872118
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-12,67.2378609
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-13,68.0445911
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-14,68.6875033
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-15,68.6908314
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-16,67.7605789
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-17,67.8449697
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-18,67.7066524
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-19,67.4410872
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-20,67.0591598
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-21,66.264398
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-22,66.1165831
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-23,65.7778069
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-24,65.4247373
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-25,64.6971572
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-26,65.3329482
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-27,64.8536573
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-28,64.5641271
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-29,64.3562202
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-09-30,64.5321721
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-01,64.1643995
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-02,63.8060449
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-03,62.6866989
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-04,62.7284974
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-05,63.1442821
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-06,62.6904296
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-07,62.7091068
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-08,62.8511221
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-09,63.052254
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-10,62.9279737
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-11,61.6266557
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-12,60.6388762
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-13,60.4227267
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-14,60.2601245
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-15,61.0845159
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-16,60.2622839
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-17,59.8992534
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-18,60.0370381
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-19,60.0377639
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-20,60.4511384
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-21,59.7455422
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-22,58.2353522
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-23,59.5070141
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-24,59.2031575
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-25,59.4515657
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-26,59.5211474
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-27,58.3986881
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-28,58.7590992
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-29,58.233683
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-30,57.9381754
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-10-31,58.3532314
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-01,57.5849335
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-02,57.3333739
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-03,56.6124979
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-04,56.3612696
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-05,57.1710067
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-06,56.4730626
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-07,55.6651326
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-08,56.2043342
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-09,56.0803996
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-10,56.4021507
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-11,56.1826503
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-12,55.6259796
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-13,55.5082009
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-14,55.3693312
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-15,55.1916735
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-16,54.6010538
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-17,54.6479915
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-18,53.5092233
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-19,52.8980964
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-20,53.2193694
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-21,52.1518947
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-22,51.7641326
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-23,51.5009109
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-24,52.3101432
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-25,52.7485668
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-26,52.8219539
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-27,52.2245558
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-28,53.9000607
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-29,54.6823949
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-11-30,55.1977668
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-01,54.6615831
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-02,55.5376321
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-03,56.7400864
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-04,56.5814281
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-05,55.9275711
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-06,54.6395973
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-07,54.2321854
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-08,53.8605203
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-09,52.9009502
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-10,52.0371394
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-11,51.4713044
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-12,52.21643
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-13,53.2453489
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-14,54.4862711
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-15,55.2051143
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-16,55.7343461
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-17,55.2900697
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-18,56.2856997
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-19,56.0601143
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-20,56.2213606
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-21,55.9192546
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-22,55.3009275
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-23,55.1214277
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-24,55.7157646
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-25,56.601807
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-26,56.8171525
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-27,56.828739
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-28,57.5317226
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-29,58.3013547
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-30,59.2649813
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2021-12-31,59.8902964
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-01,60.0400756
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-02,60.5273729
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-03,61.5166509
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-04,61.438756
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-05,62.7316633
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-06,63.8013058
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-07,64.3184158
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-08,64.2539421
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-09,64.3709156
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-10,64.4799813
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-11,64.4643212
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-12,64.3453347
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-13,64.7684375
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-14,64.5002744
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-15,64.6755659
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-16,65.5268281
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-17,65.4508422
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-18,66.0310124
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-19,65.8688954
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-20,65.6112642
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-21,66.644192
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-22,67.1037956
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-23,66.2692113
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-24,66.3381032
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-25,65.5057164
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-26,64.5786503
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-27,63.4719321
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-28,62.0438722
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-29,61.3375456
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-30,61.5762993
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-01-31,61.2207835
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-01,61.5537242
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-02,62.6042926
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-03,61.7250702
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-04,62.5017675
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-05,62.178198
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-06,61.6016592
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-07,60.845256
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-08,59.6354749
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-09,59.0399879
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-10,58.8805942
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-11,57.8334897
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-12,57.580373
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-13,56.7738746
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-14,56.8733004
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-15,57.2596938
+fb-survey,smoothed_wwearing_mask_7d,People Wearing Masks,GA,state,Georgia,2022-02-16,55.6981033
